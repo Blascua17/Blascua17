@@ -1,16 +1,20 @@
-## Hi there 👋
+# Blas Cuagliarella
+Software Architect & Tech Lead
 
-<!--
-**Blotter500/Blotter500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especializado en el diseño, desarrollo y escalabilidad de plataformas B2B transaccionales. Mi enfoque técnico se basa en arquitecturas server-first, tipado estricto y despliegues robustos en la nube.
 
-Here are some ideas to get you started:
+## Proyecto Actual: Redlic
+Actualmente liderando la arquitectura y desarrollo de **[Redlic](https://project-222vz.vercel.app/)**, una plataforma B2B a nivel nacional para la industria de autopartes, conectando desarmaderos, repuesteras y talleres mecánicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Arsenal Tecnológico
+* **Ecosistema Core:** Next.js 16 (App Router), React, Node.js
+* **Lenguajes:** TypeScript (Tipado estricto al 100%)
+* **Datos & Autenticación:** PostgreSQL, Supabase (Auth + Row Level Security), Prisma ORM
+* **Arquitectura Frontend:** Tailwind CSS, Zustand (Estado Global Modular), React Hook Form + Zod
+* **Infraestructura & Telemetría:** Vercel, Sentry, Playwright (E2E automatizado), Husky/Lint-Staged
+
+## Principios de Arquitectura
+* **Modularidad Estricta:** Separación absoluta entre ensambladores (Server Components) y nodos interactivos de UI. Cero código monolítico.
+* **Seguridad de Tipos:** Zod como escudo innegociable en validaciones y mutaciones. Tolerancia cero al uso de tipados dinámicos en producción.
+* **Optimización de Estado:** Prohibido el *prop drilling*. El estado efímero del cliente se maneja exclusivamente mediante stores microscópicos.
+* **Despliegues Resilientes:** CI/CD automatizado, integraciones validadas por pre-commits y observabilidad en tiempo real.
