@@ -5,7 +5,7 @@ Especializado en el diseño, desarrollo y escalabilidad de plataformas B2B trans
 
 ## Proyectos Destacados
 
-* **[Gridlic](gridlic.com) (Ex Redlic):** Liderando la arquitectura y desarrollo de una plataforma web B2B a nivel nacional para la industria de autopartes, diseñada para conectar de forma eficiente desarmaderos, repuesteras y talleres mecánicos.
+* **[Gridlic](gridlic.com) (Ex Redlic):** Liderando la arquitectura y desarrollo de una plataforma web B2B a nivel nacional para la industria de autopartes, diseñada como un marketplace inverso que se podria trasladar a varios rubros
 * **MARMARY:** Desarrollo y arquitectura de un sistema de gestión local para el sector retail, incluyendo la migración de bases de datos legacy y la integración criptográfica directa con los Web Services gubernamentales (AFIP) para la facturación electrónica.
 
 ## Arsenal Tecnológico
